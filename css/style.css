@@ -7,7 +7,7 @@ h3 {
   margin: 0 0 10px;
 }
 
-p { 
+p {
   font-size: 1em; /* 16px, ?pt, 100%, 1em */
   line-height: 1.5em;
 }
@@ -82,6 +82,10 @@ img, video, audio, iframe, table, form {
 
 .col-3 {
 
+}
+
+.shadow {
+    box-shadow: 0 3px 1px #333;
 }
 
 [class*="col-"] {
@@ -160,5 +164,3 @@ section {
 }
 
 /*////////// FOOTER //////////*/
-
-
