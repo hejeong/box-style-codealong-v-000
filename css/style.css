@@ -85,7 +85,7 @@ img, video, audio, iframe, table, form {
 }
 
 .shadow {
-    box-shadow: 0 3px 1px #333;
+    box-shadow: 0 3px 10px #333;
 }
 
 [class*="col-"] {
